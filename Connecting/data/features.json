@@ -1,0 +1,65 @@
+[
+  {
+    "plan": "Max Plan",
+    "price": "$50",
+    "type": "Images",
+    "billing": "Supports Both Model V2 & V3",
+    "monthly": "Get credits anytime",
+    "annually": "Save 20% with the Max Plan",
+    "generateAmount": "500",
+    "generateTitle": "Fast generations per minute",
+    "service": "Unlimited",
+    "serviceTitle": "Slow generations",
+    "link": "https://buy.stripe.com/test_eVa9DFeecd7eh0YeUX",
+    "features": [
+      { "item": "Up to 3 concurrent fast jobs" },
+      { "item": "Images remain private" },
+      { "item": "Custom aspect ratios" },
+      { "item": "Image uploads supported" },
+      { "item": "Optional credit top-ups available" },
+      { "item": "Early access to new models" }
+    ]
+  },
+  {
+    "plan": "Pro Plan",
+    "price": "$30",
+    "type": "Images",
+    "billing": "Supports Both Model V2 & V3",
+    "monthly": "Get credits anytime",
+    "annually": "Save 10% with the Pro Plan",
+    "generateAmount": "300",
+    "generateTitle": "Fast generations per minute",
+    "service": "Unlimited",
+    "serviceTitle": "Slow generations",
+    "link": "https://buy.stripe.com/test_7sI0350nm9V2dOM4gi",
+    "features": [
+      { "item": "Up to 3 concurrent fast jobs" },
+      { "item": "Images remain private" },
+      { "item": "Custom aspect ratios" },
+      { "item": "Image uploads supported" },
+      { "item": "Optional credit top-ups available" },
+      { "item": "Early access to new models" }
+    ]
+  },
+  {
+    "plan": "Starter Plan",
+    "price": "$10",
+    "type": "Images",
+    "billing": "Supports Both Model V2 & V3",
+    "monthly": "Get credits anytime",
+    "annually": "No annual savings available",
+    "generateAmount": "50",
+    "generateTitle": "Fast generations per minute",
+    "service": "Unlimited",
+    "serviceTitle": "Slow generations",
+    "link": "https://buy.stripe.com/test_3cs8zB4DCaZ6dOMbIJ",
+    "features": [
+      { "item": "Up to 3 concurrent fast jobs" },
+      { "item": "Images remain private" },
+      { "item": "Custom aspect ratios" },
+      { "item": "Image uploads supported" },
+      { "item": "Optional credit top-ups available" },
+      { "item": "Early access to new models" }
+    ]
+  }
+]

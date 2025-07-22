@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How does the plan limit work?",
+    "description": "If you exceed your limit, we'll kindly prompt you to upgrade. You are currently on the Free plan and have generated 0 out of 0 images this week. Usage is calculated weekly from June 30 to July 6 at 11:02 PM."
+  },
+  {
+    "question": "What are fast and slow generations?",
+    "description": "Each prompt submission uses 4 image generation credits. All plans include a set number of fast generations where your images are processed using our fastest servers. On the Pro and Max plans, you get unlimited generations, but once you exceed your fast generation limit, you will be switched to the slower queue."
+  },
+  {
+    "question": "Can I buy more fast generations?",
+    "description": "Yes, you can purchase additional fast generations for $0.01 per generation. These credits never expire, but you need an active plan to use them. This option is ideal for months when you exceed your plan's limit. Simply click the 'Buy Extra' button on your plan page."
+  },
+  {
+    "question": "Can I upgrade or downgrade my plan?",
+    "description": "You can change your plan at any time by selecting a new plan above. If you upgrade, your payment will be prorated, meaning you'll only pay the difference. If you downgrade, a discount will be applied to future billing cycles."
+  },
+  {
+    "question": "How do I cancel my plan?",
+    "description": "You can cancel your plan anytime and retain access until the end of your billing period. To manage your subscription, click the 'Manage Plan' button above."
+  },
+  {
+    "question": "Do you accept PayPal?",
+    "description": "Currently, we do not accept PayPal. All available payment methods will be displayed on the checkout page after selecting a plan."
+  },
+  {
+    "question": "Can I keep my images private?",
+    "description": "Images created under the Starter and Pro plans are visible in our search engine. With the Max plan, your images remain private unless you choose to share them."
+  },
+  {
+    "question": "Can I use images for commercial purposes?",
+    "description": "Images created with Lexica can be used for personal purposes. For commercial use, you need a paid plan with restrictions based on company size. Companies with 2-5 employees require the Pro plan, while those with 5+ employees need the Max plan. Refer to our license page for more details."
+  },
+  {
+    "question": "Can I get a receipt or invoice for tax purposes?",
+    "description": "Yes, once subscribed to a plan, you can download receipts and invoices directly."
+  },
+  {
+    "question": "Where can I ask more questions?",
+    "description": "Feel free to join our Discord community where we're usually online and happy to assist. Alternatively, you can contact us at akkushwaha0982@gmail.com."
+  }
+]
